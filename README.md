@@ -1,8 +1,7 @@
 # Dockerize-dotnetApp
 # Dockerize-dotnetApp
 # To run the app
-open dockerize/dockerhrapp
-then in terminal enter those #4 commands : 
+enter those #4 commands : 
 1. dotnet build
 2. docker build --tag dockerhrapp .
 3. docker container rm -f hrapp
